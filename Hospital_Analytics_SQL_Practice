@@ -1,8 +1,0 @@
-# Hospital Analytics SQL Practice
-This project explores hospital performance data using SQL queries within Python.  
-It includes examples of:
-- Aggregation and grouping in PostgreSQL  
-- Healthcare-related KPI analysis (EHR adoption, mortality comparisons, etc.)  
-- Query automation using Python and psycopg2
-
-The dataset comes from CMS Hospital Compare.
