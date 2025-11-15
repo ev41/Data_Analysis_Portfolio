@@ -1,3 +1,7 @@
+#READ ME: This dataset contains general information on hospital quality. The queries below dance around one main objective,
+#            which is to rank hospitals on various performance metrics. 
+
+
 # --- importing necessary libraries / modules
 from sqlalchemy import create_engine
 from sqlalchemy import text
